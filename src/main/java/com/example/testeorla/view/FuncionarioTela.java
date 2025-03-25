@@ -1,5 +1,8 @@
 package com.example.testeorla.view;
 
+import com.example.testeorla.controler.FuncionarioController;
+import org.springframework.beans.factory.annotation.Autowired;
+
 import java.util.Scanner;
 
 public class FuncionarioTela {
